@@ -1,7 +1,7 @@
 # 📊 Superstore Analytics Dashboard (Dual Theme)
 
 ![Project Status](https://img.shields.io/badge/Status-Active-success)
-![Tool](https://img.shields.io/badge/Tool-PowerBI%20%2F%20Tableau%20%2F%20Excel-blue) ![License](https://img.shields.io/badge/License-MIT-yellow)
+![Tool](https://img.shields.io/badge/Tool-Power Query%20%2F%20Tableau%20%2F%20Excel-blue) ![License](https://img.shields.io/badge/License-MIT-yellow)
 
 ## 📖 Project Overview
 
