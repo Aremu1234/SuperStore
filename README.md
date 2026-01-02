@@ -1,7 +1,7 @@
 # 📊 Superstore Analytics Dashboard (Dual Theme)
-
 ![Project Status](https://img.shields.io/badge/Status-Active-success)
-![Tool](https://img.shields.io/badge/Tool-Power Query%20%2F%20Tableau%20%2F%20Excel-blue) ![License](https://img.shields.io/badge/License-MIT-yellow)
+![Tool](https://img.shields.io/badge/Tool-Power%20Query%20%26%20Excel-blue)
+![License](https://img.shields.io/badge/License-MIT-yellow)
 
 ## 📖 Project Overview
 
@@ -15,11 +15,14 @@ The primary goal of this project is to transform raw sales data into actionable 
 
 ### ☀️ Light Mode
 *Optimized for clarity and presentation in bright environments.*
-![Light Mode Dashboard](./Light.PNG)
+
+<img width="1578" height="842" alt="Light" src="https://github.com/user-attachments/assets/e30301ab-56f8-4524-94db-4dceaa64ac94" />
+
 
 ### 🌙 Dark Mode
 *Optimized for low-light environments and reduced eye strain.*
-![Dark Mode Dashboard](./Dark.PNG)
+
+<img width="1559" height="848" alt="Dark" src="https://github.com/user-attachments/assets/fde20a7c-e317-4021-8a0c-faac0f4cbdbf" />
 
 ---
 
@@ -30,7 +33,8 @@ Immediate visibility into the most critical business metrics:
 * **Total Revenue:** $1,924,338
 * **Total Profit:** $224,078
 * **Profit Margin:** 51.5% (High efficiency)
-* **Total Orders & Customers:** Tracking volume and reach.
+* **Total Orders:** 1,952.
+* **Total Customers:** 1,130.
 
 ### 2. User Experience (UX) Enhancements
 * **Theme Switcher:** Seamless toggle between Light and Dark visual themes.
@@ -59,7 +63,7 @@ Based on the current dataset snapshot:
 
 
 * **Data Source:** Sample Superstore Dataset (.CSV).
-* **Data Transformation:** `Power Query` used for cleaning and modeling.
+* **Data Transformation:** `Power Query` used for cleaning.
 * **Visualization Tool:** `Microsoft Excel`.
 
 
